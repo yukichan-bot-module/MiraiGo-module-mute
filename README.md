@@ -12,10 +12,10 @@ Module for [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template)
 
 - 开启全员禁言/开启全体禁言
 - 关闭全员禁言/关闭全体禁言
-- 禁言 @对象
-- @对象 禁言
-- 禁言30 @对象
-- @对象 禁言30
+- 禁言 **@对象**
+- **@对象** 禁言
+- 禁言30 **@对象**
+- **@对象** 禁言30
 
 > **Note**
 >
