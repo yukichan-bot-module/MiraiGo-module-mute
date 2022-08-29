@@ -18,6 +18,7 @@ Module for [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template)
 - @对象 禁言30
 
 > **Note**
+>
 > 禁言 0 即为取消禁言
 
 ## 使用方法
